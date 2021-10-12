@@ -31,7 +31,7 @@ const Enmap = require("enmap");
 const cooldown = new Set();
 const cdtime = 5;
 const prefix = "T"
-client.login("Nzg0MzAzNzU2OTI1NDY4NzEz.X8nVyw.Ozw917_1xQCmjNOoUWVjvDOGrY4")
+client.login("ODk3NTI3MTEwODM3NjA4NDQ4.YWW9Qg.HbZrrn2Elvdtvh5R6A0vSmKJ9Kc")
 
 let channelc = JSON.parse(fs.readFileSync('./channelc.json' , 'utf8'));
 let channeld = JSON.parse(fs.readFileSync('./channeld.json' , 'utf8'));
